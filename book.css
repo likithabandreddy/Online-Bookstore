@@ -1,0 +1,47 @@
+/*
+    Student Name: Seeram Likitha
+    Project Name: Project 4
+    Due Date: 26 Nov 2016
+*/
+.bg {
+	background-image: url("http://benesse.jp/kyouiku/201608/img/KJ_20160830_02.jpg");
+	background-size: cover;
+}
+
+.welcome {
+	position: relative;
+	margin-left: 400px;
+	margin-right: auto;
+	width: 400px;
+}
+
+.below-gap {
+	margin-bottom: 15px;
+}
+
+.left-gap {
+	margin-left: 15px;
+}
+
+.above-gap {
+	margin-top: 50px;
+}
+
+.show {
+	display: inline;
+}
+
+.place {
+	float: left;
+	width: 175px;
+}
+
+.buy {
+	width: 150px;
+	margin-left: 100px;
+}
+
+.myTable {
+	height: auto;
+	width: 250px;
+}
